@@ -186,7 +186,7 @@ $ cat /etc/sushaman/current_mission.txt
 [*] Learning Splunk SPL for log queries
 [*] Building Python automation tools for security
 [*] Studying MITRE ATT&CK framework
-[+] Goal: Land first Cyber Security Internship in 2025
+[+] Goal: Land first Cyber Security Internship in 2026
 ```
 
 ---
