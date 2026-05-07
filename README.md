@@ -27,7 +27,7 @@
   "domain"      : "Cyber Security — Blue Team",
   "tools"       : ["SIEM", "Wireshark", "Splunk", "Nmap", "Metasploit"],
   "principles"  : ["Zero Trust", "Defense in Depth", "Continuous Monitoring"],
-  "status"      : "Open to Cyber Security Internships 🚀",
+  "status"      : "Open to Cyber Security Internships or SOC L1 Analysis Job 🚀",
   "motto"       : "If you know the enemy and know yourself, you need not fear — Sun Tzu"
 }
 ```
@@ -63,7 +63,7 @@
 | Kali Linux / Ubuntu | Strong |
 | Windows Server | Proficient |
 | Wireshark | Strong |
-| Splunk (SIEM) | Proficient |
+| Wazuh (SIEM) | Proficient |
 
 ### 🤖 AI & Threat Intel
 
