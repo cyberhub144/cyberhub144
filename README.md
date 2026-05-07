@@ -22,7 +22,7 @@
 ```json
 {
   "name"        : "Sushaman Das",
-  "university"  : "Brainware University — B.Tech CSE",
+  "university"  : "Brainware University",
   "focus"       : ["SOC Analysis", "Threat Detection", "Incident Response"],
   "domain"      : "Cyber Security — Blue Team",
   "tools"       : ["SIEM", "Wireshark", "Splunk", "Nmap", "Metasploit"],
